@@ -20,6 +20,9 @@ body {
 .top {
   background: white;
 }
+button {
+  cursor: pointer;
+}
 
 i {
   font-size: 12px;
